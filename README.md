@@ -1,6 +1,9 @@
 ### Hi there, my name is Oleg.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Vue.js+Frontend+Developer)](https://git.io/typing-svg)
 
+### My current stack is:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **KiditsGood/KiditsGood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
